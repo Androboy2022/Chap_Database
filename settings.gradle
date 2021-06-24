@@ -1,0 +1,6 @@
+include ':movie_database'
+include ':mydiarydb'
+include ':singergroupdb'
+include ':databaseopenhelper'
+include ':app'
+rootProject.name = "Chap_Database"
